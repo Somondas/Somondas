@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python Automation, Foundation of User Experience(UX)**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: somondas067@gmail.com</h3>
 <p align="left">
 </p>
 
