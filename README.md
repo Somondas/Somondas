@@ -1,4 +1,4 @@
-
+![MasterHead](https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg)
 <h1 align="center">Hi 👋, I'm Somon Das</h1>
 <h3 align="center">A Full-Stack Web-developer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
