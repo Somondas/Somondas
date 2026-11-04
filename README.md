@@ -1,14 +1,46 @@
-![MasterHead](https://istefan.ro/img/hero/web-developer-newsletter-coder-stefan-iordache.jpg)
-<h1 align="center">Hi 👋, I'm Somon Das</h1>
-<h3 align="center">A Full-Stack Web-developer </h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
-- 🌱 I’m currently learning **DevOps**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Somon%20Das&fontColor=ffffff&fontSize=48&animation=fadeIn" width="100%" alt="Somon Das"/>
 
+<h3 align="center">Full-Stack Engineer · building AI-powered analytics at <a href="https://onvo.ai">Onvo</a></h3>
 
-<p align="left">
+<p align="center">
+  <a href="https://somondas.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-somondas.netlify.app-2563eb?style=flat-square" alt="Portfolio"/></a>
+  <a href="https://onvo.ai"><img src="https://img.shields.io/badge/Work-Onvo-0f172a?style=flat-square" alt="Onvo"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="360" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=somondas&show_icons=true&locale=en&layout=compact" alt="somondas" /></p>
+### About me
+
+- 💼 Full-Stack Engineer at **[Onvo](https://onvo.ai)** — an AI platform that turns your data into dashboards and reports
+- 📊 I work across **Onvo Pro**, **Onvo Lite** and the **onvo.ai** website, and on **Fleevo**, our sister product
+- 🔌 Day to day: dashboards and the AI copilot, data-source connectors (Postgres, BigQuery, MongoDB, spreadsheets), scheduled reports and background jobs on Trigger.dev
+- 🧪 I care about tests that catch real bugs — Playwright end-to-end suites, Vitest, mutation testing
+- ⚙️ DevOps is now part of the job, not just something I'm learning: CI pipelines, Docker images, secrets management and observability
+
+<br clear="right"/>
+
+### What I'm working with now
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,react,nextjs,nodejs,tailwind&theme=dark" alt="Languages and frameworks"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,supabase,mongodb,mysql,gcp,aws&theme=dark" alt="Databases and cloud"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git,pnpm,vitest&theme=dark" alt="Tooling"/>
+</p>
+
+**Also:** Trigger.dev · Turborepo · Playwright · ClickHouse · Stripe · Infisical · SigNoz · Vercel AI SDK
+
+<details>
+<summary><b>Earlier toolbox</b></summary>
+<br/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=express,redux,firebase,bootstrap,sass,php,c,html,css,babel,postman,ps,xd&theme=dark" alt="Earlier tools"/>
+</p>
+</details>
+
+### GitHub stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somondas&show_icons=true&locale=en&layout=compact" alt="Top languages"/>
+</p>
